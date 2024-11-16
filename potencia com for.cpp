@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <math.h>
 
 int calculo (int base, int expoente){
 	
